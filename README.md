@@ -98,3 +98,5 @@ and join our telegram group: https://t.me/joinchat/J86yTBAtZlEi-6T6LOxijw
 
 ## Other
 instagram-php-scraper [here](https://github.com/postaddictme/instagram-php-scraper/)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F1Danish-00%2FCompressorBotp&amp;template=https%3A%2F%2Fgithub.com%2F1Danish-00%2FCompressorBot)
